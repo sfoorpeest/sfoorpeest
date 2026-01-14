@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Lam
 
-<!--
-**sfoorpeest/sfoorpeest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT student passionate about backend & system development.  
+🔧 I enjoy building scalable APIs, working with databases, and exploring system architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python (FastAPI), C#, SQL
+- **Databases**: SQL Server, MongoDB
+- **Architecture**: REST APIs, MVP, Clean Architecture
+- **Tools**: Git, GitHub, Docker (basic), GitHub Actions
+- **Frontend (basic)**: HTML, CSS
+
+## 💡 About Me
+
+I focus on designing clean backend systems, efficient database schemas, and pragmatic solutions.  
+Currently exploring deployment, CI/CD, and cloud fundamentals to ship stable applications.
+
+## 🚀 Projects
+
+- **Online Learning Platform** – FastAPI + MongoDB  
+- **Hotel Management System** – C# + SQL Server  
+- [View my portfolio](https://sfoorpeest.github.io/Final-Portfolio)
+
+## 📫 Contact
+
+- Email: nhoclamlun@gmail.com  
+- GitHub: [github.com/sfoorpeest](https://github.com/sfoorpeest)  
+
+---
